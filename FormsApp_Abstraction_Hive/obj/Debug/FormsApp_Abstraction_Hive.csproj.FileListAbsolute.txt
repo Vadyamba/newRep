@@ -1,0 +1,20 @@
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\bin\Debug\FormsApp_Abstraction_Hive.exe.config
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\bin\Debug\FormsApp_Abstraction_Hive.exe
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\bin\Debug\FormsApp_Abstraction_Hive.pdb
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.csprojAssemblyReference.cache
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.Form1.resources
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.Properties.Resources.resources
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.csproj.GenerateResource.cache
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.csproj.CoreCompileInputs.cache
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.exe
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.pdb
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\bin\Debug\FormsApp_Abstraction_Hive.exe.config
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\bin\Debug\FormsApp_Abstraction_Hive.exe
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\bin\Debug\FormsApp_Abstraction_Hive.pdb
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.csprojAssemblyReference.cache
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.Form1.resources
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.Properties.Resources.resources
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.csproj.GenerateResource.cache
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.csproj.CoreCompileInputs.cache
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.exe
+C:\Users\vadym\source\repos\FormsApp_Abstraction_Hive — копия\FormsApp_Abstraction_Hive\obj\Debug\FormsApp_Abstraction_Hive.pdb
